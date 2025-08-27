@@ -9,7 +9,7 @@ Permite realizar operações de CRUD (Create, Read, Update, Delete) e expõe end
 
 ## 🚀 Tecnologias utilizadas
 
-Python 3.12.2+
+Python 3.12.2
 
 Django 4.x
 
