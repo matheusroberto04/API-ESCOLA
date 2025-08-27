@@ -9,7 +9,7 @@ Permite realizar operações de CRUD (Create, Read, Update, Delete) e expõe end
 
 ## 🚀 Tecnologias utilizadas
 
-Python 3.10+
+Python 3.12.2+
 
 Django 4.x
 
@@ -23,7 +23,7 @@ HTML5 / CSS3 (interface administrativa do Django)
 
 Antes de começar, certifique-se de ter instalado:
 
-Python 3.10, 3.11 ou 3.12
+Python 3.12.2
 
 pip
 
