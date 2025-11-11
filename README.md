@@ -14,6 +14,9 @@ API de uma escola desenvolvida com **DjangoRestFramework** que permite acessar e
 - **WSL**
 
 ---
+## ⚙️ Servidor para testar a API
+`http://18.231.82.134:8000/`
+
 
 ## 📦 Pré-requisitos
 - [Python 3.10 ou 3.11](https://www.python.org/downloads/)
